@@ -1,13 +1,17 @@
 $primary:         #3c5282 ;
 $light:           #eeeee4;
 $font-size-base:  1.6rem;
-@import "../../../node_modules/bootstrap/scss/bootstrap";
+@import "../node_modules/bootstrap/scss/bootstrap";
 
 header{
   background: $primary;
   color: $light;
   h2{
     font-weight: lighter;
+  }
+  a.btn{
+    margin-top: 0.8rem;
+    border: 1px solid $light;
   }
 }
 header.home{
