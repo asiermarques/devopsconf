@@ -3,6 +3,7 @@ module.exports = {
     {
       resolve: "gatsby-theme-conferencer",
       options: {
+        siteUrl: "https://devopsconf.es",
         conferenceName: "DevOpsConf 2023",
         conferenceDate: "Viernes 5 de Mayo, Bilbao",
         conferenceClaim: "Encuentro profesional en torno a la cultura DevOps",
