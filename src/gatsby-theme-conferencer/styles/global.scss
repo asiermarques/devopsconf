@@ -1,7 +1,7 @@
 $primary:         #3c5282 ;
 $light:           #eeeee4;
 $font-size-base:  1.6rem;
-@import "../node_modules/bootstrap/scss/bootstrap";
+@import "../../../node_modules/bootstrap/scss/bootstrap";
 
 header{
   background: $primary;
