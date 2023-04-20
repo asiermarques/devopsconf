@@ -5350,9 +5350,9 @@ gatsby-telemetry@^4.9.0:
     node-fetch "^2.6.9"
 
 gatsby-theme-conferencer@*:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-conferencer/-/gatsby-theme-conferencer-1.0.2.tgz#c15066d452807465047c2d6d5044997c87435b7a"
-  integrity sha512-PRAtwZT/ijdhVuaawakjq91mEtFPKVIu82aKrGTsamHK9f0VXwym9cd+Ld+DYRNwmrgL4hIzmi36DXvyM92Q1A==
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-conferencer/-/gatsby-theme-conferencer-1.0.3.tgz#0b0e697b7fc1daf24102e317ec79f5d4287e32d8"
+  integrity sha512-l8ppo3qAoBo6a1B/eGk0ju2xERBO+r4eOCnzLw8QtGXn29nlg4YaCdwl+QvdNUxmtuGc+VKz+4rdFgPhL4kjfw==
   dependencies:
     autoprefixer "^10.4.14"
     bootstrap "5.3.0-alpha3"
@@ -5365,6 +5365,7 @@ gatsby-theme-conferencer@*:
     gatsby-transformer-remark "^6.9.0"
     gatsby-transformer-sharp "^5.9.0"
     gatsby-transformer-yaml "^5.9.0"
+    react-nl2br "^1.0.4"
     sass "^1.62.0"
 
 gatsby-transformer-remark@^6.9.0:
@@ -8584,6 +8585,11 @@ react-is@^16.13.1:
   version "16.13.1"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
+
+react-nl2br@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/react-nl2br/-/react-nl2br-1.0.4.tgz#20079e2660b9e9a5293b115466e3749abeed6d87"
+  integrity sha512-KQ+uwmjYk3B04xDl0hus2OeGoqkR8qkoyDBtsIqVacOUMNeaP0W+r/+anded2ehii/FlgFqEuu0T72CJLWFp4A==
 
 react-refresh@^0.14.0:
   version "0.14.0"
