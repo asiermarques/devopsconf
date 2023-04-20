@@ -7,6 +7,8 @@ module.exports = {
         conferenceName: "DevOpsConf 2023",
         conferenceDate: "Viernes 5 de Mayo, Bilbao",
         conferenceClaim: "Encuentro profesional en torno a la cultura DevOps",
+        ticketsCTALink: "https://www.eventbrite.com/e/entradas-devopsconfes-bilbao-meetup-5-de-mayo-621627493567",
+        ticketsCTAText: "Reserva tu sitio",
         conferenceHashtag: "#DevopsES23",
         bannerImage: "/images/banner.png",
         summary: {

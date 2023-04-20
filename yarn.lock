@@ -5350,18 +5350,22 @@ gatsby-telemetry@^4.9.0:
     node-fetch "^2.6.9"
 
 gatsby-theme-conferencer@*:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-conferencer/-/gatsby-theme-conferencer-1.0.1.tgz#87a3b727c872820870f9a2e33306a26dc4c85de1"
-  integrity sha512-HMd8wNedaPnH9etO2J7zoDC6QP/xhm5ijZrsl1q1O6ve/ZsqRbRYwZxiTUFmfWJaBIj6WmDsXLMDW6i0hCkyUA==
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-conferencer/-/gatsby-theme-conferencer-1.0.2.tgz#c15066d452807465047c2d6d5044997c87435b7a"
+  integrity sha512-PRAtwZT/ijdhVuaawakjq91mEtFPKVIu82aKrGTsamHK9f0VXwym9cd+Ld+DYRNwmrgL4hIzmi36DXvyM92Q1A==
   dependencies:
+    autoprefixer "^10.4.14"
+    bootstrap "5.3.0-alpha3"
     gatsby-plugin-image "^3.9.0"
     gatsby-plugin-manifest "^5.9.0"
+    gatsby-plugin-sass "^6.9.0"
     gatsby-plugin-sharp "^5.9.0"
     gatsby-plugin-sitemap "^6.9.0"
     gatsby-source-filesystem "^5.9.0"
     gatsby-transformer-remark "^6.9.0"
     gatsby-transformer-sharp "^5.9.0"
     gatsby-transformer-yaml "^5.9.0"
+    sass "^1.62.0"
 
 gatsby-transformer-remark@^6.9.0:
   version "6.9.0"
