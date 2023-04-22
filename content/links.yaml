@@ -1,6 +1,12 @@
 -
+  name: Agenda
+  link: /#agenda
+-
   name: Entradas
   link: https://www.eventbrite.com/e/entradas-devopsconfes-bilbao-meetup-5-de-mayo-621627493567
+-
+  name: Código de conducta
+  link: /pages/coc
 -
   name: Ver la edición de 2018
   link: https://2018.devopsconf.es

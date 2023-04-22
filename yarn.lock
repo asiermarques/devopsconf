@@ -2086,7 +2086,12 @@
     "@types/node" "*"
     form-data "^3.0.0"
 
-"@types/node@*", "@types/node@>=10.0.0":
+"@types/node@*":
+  version "18.15.13"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.15.13.tgz#f64277c341150c979e42b00e4ac289290c9df469"
+  integrity sha512-N+0kuo9KgrUQ1Sn/ifDXsvg0TTleP7rIy4zOBGECxAljqvqfqpTfzx0Q1NUedOixRMBfe2Whhb056a42cWs26Q==
+
+"@types/node@>=10.0.0":
   version "18.15.12"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-18.15.12.tgz#833756634e78c829e1254db006468dadbb0c696b"
   integrity sha512-Wha1UwsB3CYdqUm2PPzh/1gujGCNtWVUYF0mB00fJFoR4gTyWTDPjSm+zBF787Ahw8vSGgBja90MkgFwvB86Dg==
@@ -3154,10 +3159,15 @@ caniuse-api@^3.0.0:
     lodash.memoize "^4.1.2"
     lodash.uniq "^4.5.0"
 
-caniuse-lite@^1.0.0, caniuse-lite@^1.0.30001449, caniuse-lite@^1.0.30001464:
+caniuse-lite@^1.0.0:
   version "1.0.30001480"
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001480.tgz#9bbd35ee44c2480a1e3a3b9f4496f5066817164a"
   integrity sha512-q7cpoPPvZYgtyC4VaBSN0Bt+PJ4c4EYRf0DrduInOz2SkFpHD5p3LnvEpqBp7UnJn+8x1Ogl1s38saUxe+ihQQ==
+
+caniuse-lite@^1.0.30001449, caniuse-lite@^1.0.30001464:
+  version "1.0.30001481"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001481.tgz#f58a717afe92f9e69d0e35ff64df596bfad93912"
+  integrity sha512-KCqHwRnaa1InZBtqXzP98LPg0ajCVujMKjqKDhZEthIpAsJl/YEIa3YvXjGXPVqzZVguccuu7ga9KOE1J9rKPQ==
 
 capital-case@^1.0.4:
   version "1.0.4"
@@ -4122,9 +4132,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.4.284:
-  version "1.4.368"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.368.tgz#75901f97d3e23da2e66feb1e61fbb8e70ac96430"
-  integrity sha512-e2aeCAixCj9M7nJxdB/wDjO6mbYX+lJJxSJCXDzlr5YPGYVofuJwGN9nKg2o6wWInjX6XmxRinn3AeJMK81ltw==
+  version "1.4.369"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.369.tgz#a98d838cdd79be4471cd04e9b4dffe891d037874"
+  integrity sha512-LfxbHXdA/S+qyoTEA4EbhxGjrxx7WK2h6yb5K2v0UCOufUKX+VZaHbl3svlzZfv9sGseym/g3Ne4DpsgRULmqg==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -5261,9 +5271,9 @@ gatsby-plugin-page-creator@^5.9.0:
     lodash "^4.17.21"
 
 gatsby-plugin-remote-images@^3.6.5:
-  version "3.6.5"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-remote-images/-/gatsby-plugin-remote-images-3.6.5.tgz#7a1c2040205dd1a1f0af420f221b9122cd2128bd"
-  integrity sha512-h4JVjyoR26h/XsSme6ogmYqcUkHS3d/FANjfjeCBL0mrcHnAONEjFF0xUeAFNDv1L9TrGoJDO7HVNnkg5chk6g==
+  version "3.6.6"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-remote-images/-/gatsby-plugin-remote-images-3.6.6.tgz#1d8349697782ccbfa9e81d69a2bc8b9e5a4e6283"
+  integrity sha512-3KzZZOSF55cD4J8cM920Kip2p0cJBxcRG6nJO7cSQIGkgZ8Rk1JgkKq0d0SvwFMPyZRUAVBncndz1xg0AdaZ3g==
   dependencies:
     gatsby-source-filesystem "^4.0.0"
     lodash "^4.17.15"
@@ -5405,9 +5415,9 @@ gatsby-telemetry@^4.9.0:
     node-fetch "^2.6.9"
 
 gatsby-theme-conferencer@*:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-conferencer/-/gatsby-theme-conferencer-1.0.5.tgz#b9f8d18cdd1da365d77deb6469cbce0342849a42"
-  integrity sha512-dDn1vNkM2DwjUnj0FUj0OnNgm5HW8tWCclNNeTTpldCJDTgETYdkH3l4SXzsOHHNWfg8jj2ZnaxhvWhik5aUBw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-conferencer/-/gatsby-theme-conferencer-1.0.7.tgz#8a5f45296f721afc49fc36ae7d06c61b309af79f"
+  integrity sha512-Eu7s6oTMJdBIRJxKimDlvS3fvj113A2rxuvFSgsG7kkHeeKc7IMioceOLvp1wagYGtb9lH04KGsG8OOfQPpHlg==
   dependencies:
     autoprefixer "^10.4.14"
     bootstrap "5.3.0-alpha3"

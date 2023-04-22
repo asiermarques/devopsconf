@@ -19,8 +19,8 @@ module.exports = {
           title: "Your awesome",
           description:
               "Segunda edición de un pequeño evento que nace con el objetivo de compartir perspectiva y experiencia profesional relacionada con la cultura DevOps.",
-          ctaText: "Pronto más información.",
-          ctaLink: "#",
+          ctaText: "Agenda",
+          ctaLink: "#agenda",
         },
       }
     }
