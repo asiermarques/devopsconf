@@ -6,10 +6,11 @@ image: images/christian.jpeg
 social:
     linkedin: ccarballolozano
 ---
-During the last year, Asier was the Sr. Engineering Director for the Packlink Shipping division and lead the Auctane's Spain engineering hub.  
- 
-Prior to that, he has been part of different tech leadership teams with direct accountability for the engineering department's growth and cultural and structural transformations.
-He was a co-founder of different tech companies in Spain.
+Mathematician, Data Scientist, and Machine Learning Engineer.
+
+Working from research, understanding the necessities of the problem and finding cutting edge solutions from a mathematical point of view, up to the development of the solution for its implementation.
+
+Some keywords of my areas: Artificial Intelligence; Operations Research; Data; Decisions; Stochastic Processes; Optimization; Machine Learning; Algorithms;
 
 
 
