@@ -76,7 +76,7 @@ header.home{
   padding: 40px 0;
 }
 
-#speaker-detail, #talk-detail{
+#speaker-detail, #talk-detail, #page-detail{
   padding: 4rem;
   border-bottom: 1px solid $secondary;
   font-size: 1.4rem;
@@ -85,6 +85,7 @@ header.home{
   }
   h2{
     font-size: 2rem;
+    margin-top: 1.5rem;
   }
 }
 #talk-detail{
@@ -137,7 +138,7 @@ header.home{
     }
   }
   .agenda_row{
-    span{display: block}
+    span, a{display: block; padding: 0 1rem}
     span.description{font-size: 1.2rem}
   }
 }

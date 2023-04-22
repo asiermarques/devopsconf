@@ -1,6 +1,6 @@
 ---
 title: Código de conducta
-slug: /code-of-conduct/
+path: /code-of-conduct/
 ---
 
 ## Nuestro compromiso
