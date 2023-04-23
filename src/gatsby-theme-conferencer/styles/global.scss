@@ -92,6 +92,9 @@ header.home{
   .speaker-in-talk{
     margin: 4rem 0;
   }
+  .image{
+    margin-bottom: 2rem;
+  }
 }
 
 #speakers{
@@ -151,6 +154,9 @@ section.location {
     padding: 0;
   }
   .address{
+    h4{
+      color: $light;
+    }
     padding: 2rem;
   }
 }
