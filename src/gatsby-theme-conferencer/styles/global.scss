@@ -87,13 +87,23 @@ header.home{
     font-size: 2rem;
     margin-top: 1.5rem;
   }
+  .speaker-summary{
+    .social{
+      margin-bottom: 0.6rem;
+      a.social-icon {
+        width: 1.8rem!important;
+        height: 1.8rem!important;
+        margin: 0 0.2rem;
+      }
+    }
+  }
 }
 #talk-detail{
   .speaker-in-talk{
     margin: 4rem 0;
   }
   .image{
-    margin-bottom: 2rem;
+    margin-bottom: 1.4rem;
   }
 }
 
