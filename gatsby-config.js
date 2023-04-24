@@ -14,7 +14,7 @@ module.exports = {
         ticketsCTALink: "https://www.eventbrite.com/e/entradas-devopsconfes-bilbao-meetup-5-de-mayo-621627493567",
         ticketsCTAText: "Reserva tu sitio",
         conferenceHashtag: "#DevopsES23",
-        bannerImage: "/images/banner.png",
+        bannerImage: "https://devopsconf.es/images/banner.png",
         summary: {
           title: "Your awesome",
           description:
