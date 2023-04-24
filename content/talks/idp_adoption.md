@@ -1,12 +1,11 @@
 ---
 key: idp-adoption
 speakers: [ asier ]
-title: Managing the adoption challenges for our dev tools and internal platform products
+title: Gestionando la adopción de nuestros productos de plataforma interna para desarrolladores.
 ---
-One of the most significant challenges for our Internal Developer Platform scope is ensuring the right strategy for clients and software teams to adopt the tools and services our IDP teams offer and support.  
+Uno de los retos más significativos para nuestros equipos de plataforma interna es asegurar una buena estrategia para conseguir que los clientes internos y equipos de software adopten nuestros productos de plataforma y dev-tools.
 
-In this talk, we will be reviewing mainly the following aspects regarding the proper adoption of our internal developer platform product and services:
-
-* The most common challenges we should expect when we need to ensure the adoption of our internal developer platform products and services from our clients and how to tackle them.
-* Different adoption approaches and patterns
-* What are the essential steps in our adoption plan, and how to measure the success
+En esta charla, vamos a repasar los siguientes aspectos relacionados con un buen plan de adopción de nuestros productos y servicios:
+* Los principales retos que nos vamos a encontrar y que pueden afectar a nuestra adopción y cómo afrontarlos
+* Diferentes aproximaciones para la adopción de un producto de plataforma interna
+* Cómo medir el éxito y diferentes métricas que podemos usar
