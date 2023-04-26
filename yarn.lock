@@ -5415,9 +5415,9 @@ gatsby-telemetry@^4.9.0:
     node-fetch "^2.6.9"
 
 gatsby-theme-conferencer@*:
-  version "1.0.16"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-conferencer/-/gatsby-theme-conferencer-1.0.16.tgz#9b17393058c3bed44828b27dbedc2ce67fb2d7e5"
-  integrity sha512-gd5b+pBQgPnh/YrHORw2VInPABesq+HT+wBF1Lc/6UYRZdBVIbjwd3FHPOO/jZIoTEM4loGJ8RFqWyhfcYcndQ==
+  version "1.0.17"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-conferencer/-/gatsby-theme-conferencer-1.0.17.tgz#a662e5a1f24092c0d4b7729bad97966b80445dd5"
+  integrity sha512-MGVHSHbC4I+BrQjl1MW70YEYLoS/NBzFdn9uUvIfWucsZa12AOKE1PHSscnsPu93M3I3Xtmc0izMUBFy4tMcBA==
   dependencies:
     autoprefixer "^10.4.14"
     bootstrap "5.3.0-alpha3"
